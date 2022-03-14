@@ -38,3 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 1. getStaticProps
 2. getStaticPaths
 3. ISR (incremental Static Regeneration)
+
+SSG describes the process of building websites that render at build time. The output is an HTML file, assets such as JavaScript and CSS, and a few other static files.

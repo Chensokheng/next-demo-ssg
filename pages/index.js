@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function index({ posts }) {
+export default function index() {
 	return (
 		<div>
 			<h1>List of posts</h1>
