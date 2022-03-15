@@ -35,6 +35,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-1. getStaticProps
-2. getStaticPaths
-3. ISR (incremental Static Regeneration)
+1. getStaticProps()
+2. getStaticPaths()
+3. pagination()
+4. ISR (incremental Static Regeneration)
+
+SSG(static site generating) describes the process of building websites that render at build time. The output is an HTML file, assets such as JavaScript and CSS, and a few other static files.
